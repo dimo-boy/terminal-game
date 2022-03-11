@@ -16,6 +16,17 @@ os.system('cls' if os.name == 'nt' else 'clear')
 print("{}: okay my name is {}".format(script_name,script_name))
 print("{}: i like it".format(script_name))
 
+
+if script_name == "yaseen":
+    print("too handsom to be a script name but whatever")
+elif script_name == "sols":
+    print("too tall to be a script name but okay")
+elif script_name == "luna":
+    print("too nice to be a script name but okay")
+elif script_name == "mykel":
+    print("too fat to be a script name")
+
+    
 #intro
 print("{}: i want to be more human and i want your help please before the script ends".format(script_name))
 start = input("""{}: will you help me?:
